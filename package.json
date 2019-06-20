@@ -14,6 +14,7 @@
     "tap-nirvana": "^1.1.0"
   },
   "dependencies": {
+    "dotenv": "^8.0.0",
     "eosjs": "^16.0.8"
   }
 }
